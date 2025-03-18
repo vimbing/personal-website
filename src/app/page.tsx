@@ -1,8 +1,6 @@
 "use client";
 
-import Image from "next/image";
 import { useEffect, useState } from "react";
-import githubIcon from "../../public/github-logo.svg"
 import { Geist_Mono } from "next/font/google";
 
 const geistMono = Geist_Mono({
